@@ -1,0 +1,6 @@
+[wrap-file]
+directory = unzip60
+
+source_url = http://freefr.dl.sourceforge.net/project/infozip/UnZip%206.x%20%28latest%29/UnZip%206.0/unzip60.zip
+source_filename = unzip60.zip
+source_hash = 2bc3e70d412447595ac3bed58c1c1fdae289d9a652e55fd0eaadddfe111aa9e4
